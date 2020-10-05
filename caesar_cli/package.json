@@ -1,0 +1,24 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": " CLI tool that will encode and decode a text by Caesar cipher",
+  "main": "caesar",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "node-core-lib": "^0.11.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annaStoma/Caesar-cipher-CLI-tool.git"
+  },
+  "author": "Hanna Stoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annaStoma/Caesar-cipher-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/annaStoma/Caesar-cipher-CLI-tool#readme"
+}
