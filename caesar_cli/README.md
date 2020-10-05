@@ -19,4 +19,4 @@ npm i
 ```
 
 ### gratitude 
-###[The Rolling Scopes](https://rollingscopes.com/)
+[The Rolling Scopes](https://rollingscopes.com/)
